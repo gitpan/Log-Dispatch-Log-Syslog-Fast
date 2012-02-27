@@ -22,4 +22,5 @@ requires:
   Log::Syslog::Fast: 0.58
   Params::Validate: 0
   Sys::Hostname: 0
-version: 1.01
+  parent: 0
+version: 1.02

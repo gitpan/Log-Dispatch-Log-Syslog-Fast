@@ -151,7 +151,7 @@ Log::Dispatch::Log::Syslog::Fast - Log::Dispatch wrapper around Log::Syslog::Fas
 
 =head1 VERSION
 
-version 1.01
+version 1.02
 
 =head1 SYNOPSIS
 

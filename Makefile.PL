@@ -29,9 +29,10 @@ my %WriteMakefileArgs = (
     "Log::Syslog::Constants" => "1.02",
     "Log::Syslog::Fast" => "0.58",
     "Params::Validate" => 0,
-    "Sys::Hostname" => 0
+    "Sys::Hostname" => 0,
+    "parent" => 0
   },
-  "VERSION" => "1.01",
+  "VERSION" => "1.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
